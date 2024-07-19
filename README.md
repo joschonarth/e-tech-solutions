@@ -32,7 +32,7 @@ Este projeto utiliza as seguintes tecnologias:
 Para executar o sistema localmente, clone este repositório e abra o arquivo ```index.html``` em seu navegador:
 
 ```bash
-git clone https://github.com/joschonarth/
+git clone https://github.com/joschonarth/e-tech-solutions
 ```
 
 ##
