@@ -2,16 +2,11 @@
 
 Este repositório contém um projeto de site de página única desenvolvido com o framework Bootstrap. O site simula uma empresa fictícia de tecnologia, integrando conceitos modernos de design responsivo e práticas de desenvolvimento web. 
 
-<!-- <p align="center">
+<p align="center">
     <a href="https://e-tech-solutions.vercel.app/" target="_blank">
     <img src="img/print.png" style="width: 100%" />
     </a>
-</p> -->
-
-
-[<img src="img/print.png" style="width: 100%">](https://e-tech-solutions.vercel.app/){:target="_blank"}
-
-
+</p>
 
 ## Tecnologias Utilizadas 🛠️
 
