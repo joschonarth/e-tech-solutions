@@ -38,6 +38,14 @@ git clone https://github.com/joschonarth/e-tech-solutions
 
 ##
 
+## Acesse o Site 🖥️
+
+Você também pode acessar e testar o site pelo seu navegador web:
+
+🔗 [E-Tech Solutions](https://controle-de-frota.vercel.app/) 
+
+##
+
 **Nota:** Este projeto foi criado exclusivamente para fins educacionais e de aprendizado.
 
 ##
