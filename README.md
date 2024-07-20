@@ -8,9 +8,9 @@ Este repositório contém um projeto de site de página única desenvolvido com 
     </a>
 </p> -->
 
-<p align="center">
-    [<img src="img/print.png" style="width: 100%">](https://e-tech-solutions.vercel.app/){:target="_blank"}
-</p>
+
+[<img src="img/print.png" style="width: 100%">](https://e-tech-solutions.vercel.app/){:target="_blank"}
+
 
 
 ## Tecnologias Utilizadas 🛠️
